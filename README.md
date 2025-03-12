@@ -6,9 +6,9 @@ Projeto de grupo desenvolvido no âmbito da UC de LI3.
 
 **Membros do grupo:**
 
-* darteescar
-* luis7788
-* tiagofigueiredo7
+* [darteescar](https://github.com/darteescar)
+* [luis7788](https://github.com/luis7788)
+* [tiagofigueiredo7](https://github.com/tiagofigueiredo7)
 
 ## Execução
 
